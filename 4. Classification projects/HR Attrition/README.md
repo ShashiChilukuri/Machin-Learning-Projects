@@ -4,7 +4,7 @@
     Data source: HR_data.csv (from Kaggle)
 
 Attrition Dashboard in Tableau:
-![](Dashboard 2.png)
+![](Dashboard_2.png)
 
 
-![](Dashboard 2.1.png)
+![](Dashboard_2.1.png)
